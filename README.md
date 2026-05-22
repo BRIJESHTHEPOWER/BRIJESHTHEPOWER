@@ -1,12 +1,10 @@
-## Hi 👋 I'm Brijesh
+Hi 👋, I'm Brijesh
 
-🎓 MCA Student
-💻 Aspiring Full Stack Developer
+💻 Full Stack Developer | MCA Student
 
-⚡ Building modern web applications
-🌱 Learning React and modern web technologies
+Full Stack Developer with hands-on experience in building web applications using React.js, Node.js, Express.js, MongoDB, MySQL, and Firebase. Interested in developing scalable applications, integrating modern technologies, and creating solutions that deliver a seamless user experience.
 
-🛠 Tech: HTML | CSS | JavaScript | React | SQL
+📫 brijeshbrijesh0178@gmail.com
+🔗 linkedin.com/in/brijesh-611a2b31b
 
-🚀 Always learning. Always building.
-
+🚀 Building projects, learning continuously, and exploring AI-driven technologies.
