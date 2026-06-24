@@ -1,10 +1,10 @@
-Hi 👋, I'm Brijesh
+# Hi 👋, I'm Brijesh
 
-💻 Full Stack Developer | MCA Student
+💻 Full Stack Developer | 🎓 MCA Student | 🤖 AI & Machine Learning Enthusiast
 
-Full Stack Developer with hands-on experience in building web applications using React.js, Node.js, Express.js, MongoDB, MySQL, and Firebase. Interested in developing scalable applications, integrating modern technologies, and creating solutions that deliver a seamless user experience.
+Passionate about building AI-powered applications, intelligent automation systems, and scalable web solutions. Experienced in developing projects using React, FastAPI, Flask, Node.js, MongoDB, OpenCV, and Machine Learning.
 
-📫 brijeshbrijesh0178@gmail.com
-🔗 linkedin.com/in/brijesh-611a2b31b
+🚀 Currently working on AI, Computer Vision, NLP, RAG, and Full Stack Development.
 
-🚀 Building projects, learning continuously, and exploring AI-driven technologies.
+📫 Contact: [brijeshbrijesh0178@gmail.com](mailto:brijeshbrijesh0178@gmail.com)
+🔗 LinkedIn: [www.linkedin.com/in/brijesh-611a2b31b](http://www.linkedin.com/in/brijesh-611a2b31b)
